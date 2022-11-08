@@ -4,16 +4,17 @@
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Studying+to+be+a+Full+Stack+Developer" /></a>
-</p>
-
-   <a href="https://www.linkedin.com/in/maria-eduarda-santellano-542528254/" target="_blank">
+</p>  
+  
+  <a href="https://www.linkedin.com/in/maria-eduarda-santellano-542528254/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-
+ <a href="https://www.instagram.com/mariamaidanaaaaa/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>   
 
 - 💼 I'm a student at the Full Stack Web Program at the Growdev
-- 💬 In my free time I read and study languages so I can get better at them
-- 📖 Currently studying HTML, CSS and JavaScript
+- 💬 In my free time I read and study the languages that I'm learning so I can understand them better
 
 <h2>Skills That I'm Currently Learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
