@@ -12,7 +12,7 @@
 
 
 - 💼 I'm a student at the Full Stack Web Program at the Growdev
-- 💬 In my free time I read, study languages so I can get better at them
+- 💬 In my free time I read and study languages so I can get better at them
 - 📖 Currently studying HTML, CSS and JavaScript
 
 <h2>Skills That I'm Currently Learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
