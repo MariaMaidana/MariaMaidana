@@ -13,7 +13,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>   
 
-- 💼 I'm a student at the Full Stack Web Program at the Growdev
+- 💼 I'm a student at the Full Stack Web Program at the Growdev and at the first semester of Computer Science
 - 💬 In my free time I read and study the languages that I'm learning so I can understand them better
 - 💻 I'm looking for a junior position or freelance
 
