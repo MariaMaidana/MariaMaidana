@@ -20,9 +20,6 @@ width = 32px> </h2>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://www.w3schools.com/javascript/"><img alt="JS" src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white"></a>
 
-<h2>Skills That I'm Currently Learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://camo.githubusercontent.com/4ab522615b850a63a044837b97200973293d70aaf567a11d8f6e4e8b729089e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3333333333333f7374796c653d666c6174266c6f676f3d74797065736372697074"></a>
 
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
