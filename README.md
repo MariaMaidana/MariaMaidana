@@ -8,4 +8,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariamaidana&show_icons=true&theme=radical&locale=en&layout=compact" alt="mariamaidana" /></p>
 
 - 📫 How to reach me: *maria.maidana@edu.pucrs.br*
-- 👩🏽‍💻 Linkedin: https://www.linkedin.com/in/maria-eduarda-santellano-maidana-542528254/
