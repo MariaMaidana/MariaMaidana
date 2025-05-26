@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">Computer Science Student at PUCRS and Research Intern at Virtual Humans Lab</h3>
+<h3 align="center">Computer Science Student at PUCRS and Junior Learner at the Apple Developer Academy</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
