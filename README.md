@@ -6,6 +6,3 @@ I’m a developer at the **Apple Developer Academy** in Porto Alegre, focused on
 [View Portfolio](https://mariamaidana.github.io/) • [LinkedIn](https://www.linkedin.com/in/mariaeduardasantellano) • [Email](mailto:santellanomariamc@gmail.com)
 
 ---
-
-### Current Stack
-`Swift` `SwiftUI` `UIKit` `ARKit` `SpriteKit` `CloudKit`
